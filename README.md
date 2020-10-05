@@ -1,5 +1,7 @@
 # paylasim
 
+author: Ahmet Sait Çalışır
+
 ## Project setup
 
 ```
