@@ -1,6 +1,6 @@
-# paylasim
+# Paylaşım
 
-author: Ahmet Sait Çalışır
+Author: Ahmet Sait Çalışır
 
 ## Project setup
 
